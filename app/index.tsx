@@ -24,7 +24,7 @@ export default function SplashScreen() {
 
       {/* ส่วนแสดงข้อมูลนักศึกษา */}
       <View style={styles.footer}>
-        <Text style={styles.footerText}>Created by 6825D10031</Text>
+        <Text style={styles.footerText}>Created by 6852D10031</Text>
         <Text style={styles.studentInfo}>- SAU -</Text>
       </View>
     </View>
